@@ -9,9 +9,11 @@ import CoreAudioKit
 var intNumber=123;       //Implicigt variable intNumber=123, you can change value;
 
 //Explicit variable
-let myInt: Int =123;
+let myInt: Int =99;
+//display on console
 
-
+print(intNumber);
+print(myInt);
 
 
 
